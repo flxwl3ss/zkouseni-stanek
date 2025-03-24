@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742820632 source:c:\users\jakubhapl\onedrive - støední škola andré citroëna boskovice\plocha\pouzivat na c\fyzika_zkouseni\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
